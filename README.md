@@ -13,9 +13,14 @@ Learning still:
 
 Trying to learn :
 
-- basics of React
-- basics of Angular
-- basics of Node.js
+- React
+- Typescript
+- SCSS
+
+Basics of:
+
+- Angular
+- Node.js
 - Wordpress
-- shopify
+- Shopify
 
