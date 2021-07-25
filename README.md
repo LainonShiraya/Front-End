@@ -20,5 +20,5 @@ Learning:
 Planning to learn:
 - basics of Angular
 - basics of Node.js
-- basics ofWordpress
+- basics of Wordpress
 
