@@ -1,24 +1,9 @@
-# Front End
+# Web Business card
 
-Basic knowledge of :
+Used:
+- Font Awesome
+- ScrollReveal
+- Google Fonts
 
-- HTML
-- CSS
 
-Improving on:
-
-- HTML5
-- CSS3
-- Javascript
-
-Learning:
-
-- React
-- Typescript
-- SCSS
-
-Planning to learn:
-- basics of Angular
-- basics of Node.js
-- basics of Wordpress
-
+Marisa Capitao is my friend that allowed me to use her images, artwork and links for github usage.
